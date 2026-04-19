@@ -1,4 +1,4 @@
-public class String {
+public class AluraString {
     static void main(java.lang.String[] args) {
         java.lang.String professor = "Jacqueline Oliveira";
 
